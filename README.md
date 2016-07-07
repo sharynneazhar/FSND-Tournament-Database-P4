@@ -8,7 +8,7 @@ You will develop a database schema to store the game matches between players. Yo
 ###### What You Need
 * Install [Vagrant](https://www.vagrantup.com/downloads.html)
 * Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-* Clone the repo using ```git clone https://github.com/sharynneazhar/fullstack-nanodegree-vm.git```
+* Clone the repo using ```git clone https://github.com/sharynneazhar/FSND-Tournament-Database-P4.git```
 
 ###### Run the Project
 * Launch the Vagrant VM using ```vagrant up && vagrant ssh```
