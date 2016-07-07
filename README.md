@@ -12,6 +12,6 @@ You will develop a database schema to store the game matches between players. Yo
 
 ###### Run the Project
 * Launch the Vagrant VM using ```vagrant up && vagrant ssh```
-* ```cd``` into the ```vagrant/tournament``` directory
+* ```cd``` into the ```/vagrant/FSND-Tournament-Database-P4``` directory
 * Connect to the database server using the following command ```psql -f tournament.sql```
 * Run the test suit using ```python tournament_test.py```
